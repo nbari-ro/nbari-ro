@@ -1,0 +1,1 @@
+- 👋 Hi, I’m a read-only user for CI/CD that fetch dependencies from private repositories 
